@@ -2,8 +2,8 @@
 
 
 name	Kula
-health  10000
-speed	9
+health  500
+speed   20
 type	player
 shadow	3
 diesound data/sounds/eek.wav
@@ -48,7 +48,7 @@ anim	attack1
 	move	10
 	offset	33 101
 	frame	data/chars/kula/a1-001.gif
-	attack	59 19 39 16 99999999 0 0 0 0 0
+	attack	59 19 39 16 500 0 0 0 0 0
 	bbox	41 7 16 92
 	move	10
 	offset	43 101
